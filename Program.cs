@@ -7,12 +7,15 @@ namespace Nova_pasta
         static void Main(string[] args)
         {
             Console.WriteLine("digite a primeira nota");
-            int nota1 = int.Parse(Console.ReadLine());
+            double nota1 = double.Parse(Console.ReadLine());
             Console.WriteLine("digite a segunda nota");
-            int nota2 = int.Parse(Console.ReadLine());
+
+            double nota2 = double.Parse(Console.ReadLine());
             Console.WriteLine( "digite a terceira nota");
-            int nota3 = int.Parse(Console.ReadLine());
-            int media = (nota1 +nota2 +nota3)/3;
+
+            double nota3 = double.Parse(Console.ReadLine());
+            double media = ((nota1 +nota2 +nota3)/3);
+
             Console.WriteLine("sua media é = " + media );
             
             if

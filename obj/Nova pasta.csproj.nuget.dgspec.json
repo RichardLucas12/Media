@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richard\\Desktop\\Nova pasta\\Nova pasta.csproj": {}
+    "C:\\Users\\Richard\\Desktop\\backend\\Media\\Nova pasta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richard\\Desktop\\Nova pasta\\Nova pasta.csproj": {
+    "C:\\Users\\Richard\\Desktop\\backend\\Media\\Nova pasta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\Nova pasta\\Nova pasta.csproj",
+        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\backend\\Media\\Nova pasta.csproj",
         "projectName": "Nova pasta",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\Nova pasta\\Nova pasta.csproj",
+        "projectPath": "C:\\Users\\Richard\\Desktop\\backend\\Media\\Nova pasta.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\Nova pasta\\obj\\",
+        "outputPath": "C:\\Users\\Richard\\Desktop\\backend\\Media\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config"
